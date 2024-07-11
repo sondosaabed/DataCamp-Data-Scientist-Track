@@ -28,7 +28,7 @@ Understood the fundamentals of Machine Learning and how it's applied in the busi
 ### 5. Introduction to SQL
 **2 hours**
 Learned how to create and query relational databases using SQL in two hours.
-> 
+> This course was skipped with a skill assessment.
 <hr/>
 
 ### 6. Intermediate SQL
