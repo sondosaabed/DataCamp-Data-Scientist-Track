@@ -22,7 +22,7 @@ Learned how to create my own Python packages to make the code easier to use and 
 ### 4. Machine Learning for Business
 **2 hours**
 Understood the fundamentals of Machine Learning and how it's applied in the business world.
->
+> [Course Contente](https://github.com/sondosaabed/DataCamp-Data-Scientist-Track/tree/main/Machine-Learning-for-Business)
 <hr/>
 
 ### 5. Introduction to SQL
